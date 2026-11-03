@@ -2,8 +2,7 @@
 
 Software developer focused on building clean web applications, exploring backend architecture, and mastering core data structures and algorithms.
 
----
-
+_________________
 <div align="center">
 
   <!-- Header Banner -->
@@ -40,102 +39,72 @@ Software developer focused on building clean web applications, exploring backend
 <!-- Legend Header -->
 <table>
   <tr>
-    <td align="center" bgcolor="#1d4ed8"><b><font color="#ffffff">🔵 Frontend</font></b></td>
-    <td align="center" bgcolor="#15803d"><b><font color="#ffffff">🟢 Backend</font></b></td>
-    <td align="center" bgcolor="#7e22ce"><b><font color="#ffffff">🟣 Stack & Tools</font></b></td>
-    <td align="center" bgcolor="#c2410c"><b><font color="#ffffff">🟠 DSA & Algorithms</font></b></td>
-    <td align="center" bgcolor="#b45309"><b><font color="#ffffff">🟡 Currently Exploring</font></b></td>
+    <td align="center"><img src="https://img.shields.io/badge/🔵_Frontend-1d4ed8?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/🟢_Backend-15803d?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/🟣_Stack_%26_Tools-7e22ce?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/🟠_DSA_%26_Algorithms-c2410c?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/🟡_Currently_Exploring-b45309?style=for-the-badge" /></td>
   </tr>
 </table>
 
 <br>
 
-<!-- Periodic Table Grid -->
+<!-- Periodic Table Grid (Shields Badges render guaranteed background colors on GitHub) -->
 <table>
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="120" height="100" bgcolor="#15803d">
-      <sub><font color="#e2e8f0">1</font></sub><br>
-      <b><font color="#ffffff" size="5">Py</font></b><br>
-      <sub><font color="#f1f5f9">Python</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/01__Py-Python-15803d?style=for-the-badge&logo=python&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#15803d">
-      <sub><font color="#e2e8f0">2</font></sub><br>
-      <b><font color="#ffffff" size="5">Dj</font></b><br>
-      <sub><font color="#f1f5f9">Django</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/02__Dj-Django-15803d?style=for-the-badge&logo=django&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="blue">
-      <sub><font color="#e2e8f0">3</font></sub><br>
-      <b><font color="#ffffff" size="5">Ht</font></b><br>
-      <sub><font color="#f1f5f9">HTML5</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/03__Ht-HTML5-1d4ed8?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
-      <sub><font color="#e2e8f0">4</font></sub><br>
-      <b><font color="#ffffff" size="5">Cs</font></b><br>
-      <sub><font color="#f1f5f9">CSS3</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/04__Cs-CSS3-1d4ed8?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
-      <sub><font color="#e2e8f0">5</font></sub><br>
-      <b><font color="#ffffff" size="5">Bs</font></b><br>
-      <sub><font color="#f1f5f9">Bootstrap</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/05__Bs-Bootstrap-1d4ed8?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </td>
   </tr>
   
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
-      <sub><font color="#e2e8f0">6</font></sub><br>
-      <b><font color="#ffffff" size="5">Js</font></b><br>
-      <sub><font color="#f1f5f9">JavaScript</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/06__Js-JavaScript-1d4ed8?style=for-the-badge&logo=javascript&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#7e22ce">
-      <sub><font color="#e2e8f0">7</font></sub><br>
-      <b><font color="#ffffff" size="5">Gt</font></b><br>
-      <sub><font color="#f1f5f9">Git</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/07__Gt-Git-7e22ce?style=for-the-badge&logo=git&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#7e22ce">
-      <sub><font color="#e2e8f0">8</font></sub><br>
-      <b><font color="#ffffff" size="5">Gh</font></b><br>
-      <sub><font color="#f1f5f9">GitHub</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/08__Gh-GitHub-7e22ce?style=for-the-badge&logo=github&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#7e22ce">
-      <sub><font color="#e2e8f0">9</font></sub><br>
-      <b><font color="#ffffff" size="5">Vc</font></b><br>
-      <sub><font color="#f1f5f9">VS Code</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/09__Vc-VS_Code-7e22ce?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#c2410c">
-      <sub><font color="#e2e8f0">10</font></sub><br>
-      <b><font color="#ffffff" size="5">Ds</font></b><br>
-      <sub><font color="#f1f5f9">Data Struct</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/10__Ds-Data_Struct-c2410c?style=for-the-badge" />
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="120" height="100" bgcolor="#c2410c">
-      <sub><font color="#e2e8f0">11</font></sub><br>
-      <b><font color="#ffffff" size="5">Sw</font></b><br>
-      <sub><font color="#f1f5f9">Sliding Wdn</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/11__Sw-Sliding_Window-c2410c?style=for-the-badge" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#c2410c">
-      <sub><font color="#e2e8f0">12</font></sub><br>
-      <b><font color="#ffffff" size="5">2p</font></b><br>
-      <sub><font color="#f1f5f9">Two Pointers</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/12__2p-Two_Pointers-c2410c?style=for-the-badge" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#c2410c">
-      <sub><font color="#e2e8f0">13</font></sub><br>
-      <b><font color="#ffffff" size="5">Bi</font></b><br>
-      <sub><font color="#f1f5f9">Binary Srch</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/13__Bi-Binary_Search-c2410c?style=for-the-badge" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#b45309">
-      <sub><font color="#e2e8f0">14</font></sub><br>
-      <b><font color="#ffffff" size="5">Re</font></b><br>
-      <sub><font color="#f1f5f9">React</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/14__Re-React-b45309?style=for-the-badge&logo=react&logoColor=white" />
     </td>
-    <td align="center" width="120" height="100" bgcolor="#b45309">
-      <sub><font color="#e2e8f0">15</font></sub><br>
-      <b><font color="#ffffff" size="5">Ph</font></b><br>
-      <sub><font color="#f1f5f9">PHP</font></sub>
+    <td align="center" width="130" height="90">
+      <img src="https://img.shields.io/badge/15__Ph-PHP-b45309?style=for-the-badge&logo=php&logoColor=white" />
     </td>
   </tr>
 </table>
