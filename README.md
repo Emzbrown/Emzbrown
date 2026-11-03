@@ -16,7 +16,7 @@ Software developer focused on building clean web applications, exploring backend
 
   <br>
 
-  <!-- Quick Social Badges -->
+  <!-- Social Badges -->
   <a href="https://github.com/Emzbrown">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -40,117 +40,102 @@ Software developer focused on building clean web applications, exploring backend
 <!-- Legend Header -->
 <table>
   <tr>
-    <td align="center">🔵 <b>Frontend</b></td>
-    <td align="center">🟢 <b>Backend</b></td>
-    <td align="center">🟣 <b>Stack & Tools</b></td>
-    <td align="center">🟠 <b>DSA & Algorithms</b></td>
-    <td align="center">🟡 <b>Currently Exploring</b></td>
+    <td align="center" bgcolor="#1d4ed8"><b><font color="#ffffff">🔵 Frontend</font></b></td>
+    <td align="center" bgcolor="#15803d"><b><font color="#ffffff">🟢 Backend</font></b></td>
+    <td align="center" bgcolor="#7e22ce"><b><font color="#ffffff">🟣 Stack & Tools</font></b></td>
+    <td align="center" bgcolor="#c2410c"><b><font color="#ffffff">🟠 DSA & Algorithms</font></b></td>
+    <td align="center" bgcolor="#b45309"><b><font color="#ffffff">🟡 Currently Exploring</font></b></td>
   </tr>
 </table>
 
 <br>
 
-<!-- Interactive Table Grid -->
+<!-- Periodic Table Grid -->
 <table>
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="120" height="120">
-      <sub>1</sub><br>
-      <b><h1>Py</h1></b>
-      <sub>Python</sub><br>
-      <img src="https://img.shields.io/badge/-Backend-2ea44f?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#15803d">
+      <sub><font color="#e2e8f0">1</font></sub><br>
+      <b><font color="#ffffff" size="5">Py</font></b><br>
+      <sub><font color="#f1f5f9">Python</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>2</sub><br>
-      <b><h1>Dj</h1></b>
-      <sub>Django</sub><br>
-      <img src="https://img.shields.io/badge/-Backend-2ea44f?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#15803d">
+      <sub><font color="#e2e8f0">2</font></sub><br>
+      <b><font color="#ffffff" size="5">Dj</font></b><br>
+      <sub><font color="#f1f5f9">Django</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>3</sub><br>
-      <b><h1>Ht</h1></b>
-      <sub>HTML5</sub><br>
-      <img src="https://img.shields.io/badge/-Frontend-0075ca?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
+      <sub><font color="#e2e8f0">3</font></sub><br>
+      <b><font color="#ffffff" size="5">Ht</font></b><br>
+      <sub><font color="#f1f5f9">HTML5</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>4</sub><br>
-      <b><h1>Cs</h1></b>
-      <sub>CSS3</sub><br>
-      <img src="https://img.shields.io/badge/-Frontend-0075ca?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
+      <sub><font color="#e2e8f0">4</font></sub><br>
+      <b><font color="#ffffff" size="5">Cs</font></b><br>
+      <sub><font color="#f1f5f9">CSS3</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>5</sub><br>
-      <b><h1>Bs</h1></b>
-      <sub>Bootstrap</sub><br>
-      <img src="https://img.shields.io/badge/-Frontend-0075ca?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
+      <sub><font color="#e2e8f0">5</font></sub><br>
+      <b><font color="#ffffff" size="5">Bs</font></b><br>
+      <sub><font color="#f1f5f9">Bootstrap</font></sub>
     </td>
   </tr>
   
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="120" height="120">
-      <sub>6</sub><br>
-      <b><h1>Js</h1></b>
-      <sub>JavaScript</sub><br>
-      <img src="https://img.shields.io/badge/-Frontend-0075ca?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
+      <sub><font color="#e2e8f0">6</font></sub><br>
+      <b><font color="#ffffff" size="5">Js</font></b><br>
+      <sub><font color="#f1f5f9">JavaScript</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>7</sub><br>
-      <b><h1>Gt</h1></b>
-      <sub>Git</sub><br>
-      <img src="https://img.shields.io/badge/-Stack-8a2be2?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#7e22ce">
+      <sub><font color="#e2e8f0">7</font></sub><br>
+      <b><font color="#ffffff" size="5">Gt</font></b><br>
+      <sub><font color="#f1f5f9">Git</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>8</sub><br>
-      <b><h1>Gh</h1></b>
-      <sub>GitHub</sub><br>
-      <img src="https://img.shields.io/badge/-Stack-8a2be2?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#7e22ce">
+      <sub><font color="#e2e8f0">8</font></sub><br>
+      <b><font color="#ffffff" size="5">Gh</font></b><br>
+      <sub><font color="#f1f5f9">GitHub</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>9</sub><br>
-      <b><h1>Vc</h1></b>
-      <sub>VS Code</sub><br>
-      <img src="https://img.shields.io/badge/-Stack-8a2be2?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#7e22ce">
+      <sub><font color="#e2e8f0">9</font></sub><br>
+      <b><font color="#ffffff" size="5">Vc</font></b><br>
+      <sub><font color="#f1f5f9">VS Code</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>10</sub><br>
-      <b><h1>Ds</h1></b>
-      <sub>Data Struct</sub><br>
-      <img src="https://img.shields.io/badge/-DSA-e65100?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#c2410c">
+      <sub><font color="#e2e8f0">10</font></sub><br>
+      <b><font color="#ffffff" size="5">Ds</font></b><br>
+      <sub><font color="#f1f5f9">Data Struct</font></sub>
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="120" height="120">
-      <sub>11</sub><br>
-      <b><h1>Sw</h1></b>
-      <sub>Sliding Wdn</sub><br>
-      <img src="https://img.shields.io/badge/-DSA-e65100?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#c2410c">
+      <sub><font color="#e2e8f0">11</font></sub><br>
+      <b><font color="#ffffff" size="5">Sw</font></b><br>
+      <sub><font color="#f1f5f9">Sliding Wdn</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>12</sub><br>
-      <b><h1>2p</h1></b>
-      <sub>Two Pointers</sub><br>
-      <img src="https://img.shields.io/badge/-DSA-e65100?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#c2410c">
+      <sub><font color="#e2e8f0">12</font></sub><br>
+      <b><font color="#ffffff" size="5">2p</font></b><br>
+      <sub><font color="#f1f5f9">Two Pointers</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>13</sub><br>
-      <b><h1>Bi</h1></b>
-      <sub>Binary Srch</sub><br>
-      <img src="https://img.shields.io/badge/-DSA-e65100?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#c2410c">
+      <sub><font color="#e2e8f0">13</font></sub><br>
+      <b><font color="#ffffff" size="5">Bi</font></b><br>
+      <sub><font color="#f1f5f9">Binary Srch</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>14</sub><br>
-      <b><h1>Re</h1></b>
-      <sub>React</sub><br>
-      <img src="https://img.shields.io/badge/-Exploring-e3b341?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#b45309">
+      <sub><font color="#e2e8f0">14</font></sub><br>
+      <b><font color="#ffffff" size="5">Re</font></b><br>
+      <sub><font color="#f1f5f9">React</font></sub>
     </td>
-    <td align="center" width="120" height="120">
-      <sub>15</sub><br>
-      <b><h1>Ph</h1></b>
-      <sub>PHP</sub><br>
-      <img src="https://img.shields.io/badge/-Exploring-e3b341?style=flat-square" />
+    <td align="center" width="120" height="100" bgcolor="#b45309">
+      <sub><font color="#e2e8f0">15</font></sub><br>
+      <b><font color="#ffffff" size="5">Ph</font></b><br>
+      <sub><font color="#f1f5f9">PHP</font></sub>
     </td>
   </tr>
 </table>
@@ -163,21 +148,17 @@ Software developer focused on building clean web applications, exploring backend
 
 ```yaml
 🔵 Frontend:
-  - Languages: HTML5, CSS3, JavaScript (ES6+)
-  - Frameworks & Styling: Bootstrap 5, Responsive Design
+  - Languages & Styling: HTML5, CSS3, JavaScript (ES6+), Bootstrap 5
 
 🟢 Backend:
-  - Core Language: Python
-  - Frameworks: Django (ORM, REST, Templating)
+  - Core Language & Framework: Python, Django (ORM, REST, Templating)
 
 🟣 Stack & Tools:
-  - Version Control: Git, GitHub
-  - Workspace: VS Code, Linux/Windows CLI
+  - Version Control & Editor: Git, GitHub, VS Code
 
 🟠 DSA & Algorithms:
-  - Problem Solving Patterns: Sliding Window, Two Pointers, Binary Search
-  - Core Concepts: Arrays, Strings, Stacks, Queues, Recursion
+  - Algorithmic Patterns: Sliding Window, Two Pointers, Binary Search
+  - Core Fundamentals: Arrays, Strings, Stacks, Queues, Recursion
 
 🟡 Currently Exploring:
-  - Frontend Ecosystem: React.js, Advanced Vanilla JS Patterns
-  - Server-Side Scripting: PHP
+  - Web & Scripting: React.js, Advanced Vanilla JS Patterns, PHP
