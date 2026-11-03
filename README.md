@@ -64,7 +64,7 @@ Software developer focused on building clean web applications, exploring backend
       <b><font color="#ffffff" size="5">Dj</font></b><br>
       <sub><font color="#f1f5f9">Django</font></sub>
     </td>
-    <td align="center" width="120" height="100" bgcolor="#1d4ed8">
+    <td align="center" width="120" height="100" bgcolor="blue">
       <sub><font color="#e2e8f0">3</font></sub><br>
       <b><font color="#ffffff" size="5">Ht</font></b><br>
       <sub><font color="#f1f5f9">HTML5</font></sub>
